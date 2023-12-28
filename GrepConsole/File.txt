@@ -1,0 +1,6 @@
+﻿Ping
+Pong
+ping
+bong
+kong
+king

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GrepConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "grep -v -i ping file:file.txt,url:http://www.lipsum.com/"
+    }
+  }
+}
